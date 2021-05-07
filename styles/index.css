@@ -45,3 +45,9 @@ a::before {
     transform:scale(1.07);
 
 }
+h1 {
+    font-family: "Zen Dots", cursive;
+    font-size: 37px;
+    color:#31bff3
+
+}
