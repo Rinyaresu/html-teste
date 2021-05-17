@@ -1,18 +1,4 @@
-body {
-    background-color: rgb(255, 255, 255);
-} 
-header {
-    display: flex;
-    justify-content: space-between;
-    background-color:#a484e9;
-    border-bottom:10px solid black;
-    padding: 10px 20px;
-    align-items: center;
-}
-nav {
-    text-align: right;
-}
-a {
+.action {
     display: inline-flex;
     align-items: center;
     color:white;
@@ -21,11 +7,13 @@ a {
     font-weight: 400;
     text-decoration: none;
     margin-right: 30px;
+    text-decoration: none
 }   
-a::before {
+.action::before {
     content:"";
     background-color:#31bff3;
     width: 10px;
     height: 10px;
     margin-right: 10px;
+    
 }

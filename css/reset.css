@@ -1,3 +1,7 @@
+body {
+    font-family: "Zen Dots", cursive;
+}
+
 img, header, body, h1, h2 {
     margin: 0;
 }

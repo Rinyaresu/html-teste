@@ -7,6 +7,9 @@
     box-shadow: 5px 5px 0 black;
     margin-right: 0;
     transition: transform 100ms linear;
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
 }
 .button:hover {
     transform:scale(1.07);
