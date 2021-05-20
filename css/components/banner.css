@@ -1,0 +1,24 @@
+.banner {
+    box-sizing: border-box;
+    background-image:url(../../img/hatsu.png);
+    background-repeat: no-repeat;
+    height: 794px;
+    background-size: 100%;
+    border-bottom:10px solid black;
+    padding-top: 116px;
+    padding-left: 91px;
+}
+.banner .wrapper {
+    display:flex;
+    flex-direction: column;
+    width: 550px;
+}
+.banner .box {
+    margin-bottom: 38px;
+}
+
+.banner .navigation {
+    display:flex;
+    justify-content: space-around;
+}
+
