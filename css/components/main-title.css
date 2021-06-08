@@ -1,11 +1,11 @@
-.title {
+.main-title {
     font-family: "Zen Dots", cursive;
     font-size: 37px;
     color:#31bff3;
     text-shadow: 4px 4px 0 black;
 }
 
-.title.-second {
+.main-title.-second {
     color:rgb(255, 255, 255);
     text-shadow: none;
     text-align: center;
